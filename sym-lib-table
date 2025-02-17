@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "traco")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Traco/Traco.kicad_sym")(options "")(descr ""))
+  (lib (name "TMC")(type "KiCad")(uri "${KIPRJMOD}/TMC2209/TMC2209_SILENTSTEPSTICK.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP")(type "KiCad")(uri "${KIPRJMOD}/ESP32/kicad-libraries-main/symbols/Espressif.kicad_sym")(options "")(descr ""))
+)
